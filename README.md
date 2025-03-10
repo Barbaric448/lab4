@@ -18,5 +18,5 @@ docker run -it --name container2 aafire-image
 ```
 
 Запустил aafire в двух терминлах. Создал сеть и присоеденил к ней контейнеры. Проверил пинг между ними:
-<img width="1278" alt="Снимок экрана 2024-11-22 в 16 45 15" src="https://github.com/Barbaric448/lab4/blob/main/image.png">
-<img width="1278" alt="Снимок экрана 2024-11-22 в 16 45 03" src="https://github.com/Barbaric448/lab4/blob/main/image1.png">
+<img width="1278" alt="Снимок экрана 2024-11-22 в 16 45 15" src="image.png">
+<img width="1278" alt="Снимок экрана 2024-11-22 в 16 45 03" src="image1.png">
